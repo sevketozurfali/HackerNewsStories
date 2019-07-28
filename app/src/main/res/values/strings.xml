@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hacker News Stories</string>
+
+    <string name="story_type">Story Type</string>
+    <string name="story_title">Story Title</string>
+    <string name="story_time">Story Time</string>
+    <string name="story_content">Story Content</string>
+    <string name="story_comment">Comments</string>
+    <string name="story_by"> Story By</string>
+    <string name="story_score">Story Score</string>
+
+    <string name="allStories">All Stories</string>
+    <string name="bestStories">Best Stories</string>
+    <string name="topStories">Top Stories</string>
+    <string name="askStories">Ask Stories</string>
+    <string name="jobStories">Job Stories</string>
+
+
+</resources>

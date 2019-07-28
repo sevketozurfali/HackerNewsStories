@@ -1,0 +1,29 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+         android:id="@+id/navigation_bestStories"
+         android:icon="@drawable/ic_favorite_white_24dp"
+         android:title="@string/bestStories"
+         />
+
+        <item
+            android:id="@+id/navigation_topStories"
+            android:icon="@drawable/ic_trending_up_black_24dp"
+            android:title="@string/topStories"
+            />
+
+        <item
+        android:id="@+id/navigation_askStories"
+        android:icon="@drawable/ic_question_answer_white_24dp"
+        android:title="@string/askStories"
+        />
+
+        <item
+        android:id="@+id/navigation_jobStories"
+        android:icon="@drawable/ic_work_white_24dp"
+        android:title="@string/jobStories"
+        />
+
+    </group>
+</menu>

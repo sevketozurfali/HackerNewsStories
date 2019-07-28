@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="recyclerviewitem">#D2C29D</color>
+
+    <color name="color_navigation">#FFFF66</color>
+    <color name="color_navigation1">#696969</color>
+    <color name="navigation_background">#504D4C</color>
+
+    <color name="timeText">#A4A4C1</color>
+    <color name="user_name">#4590E4</color>
+</resources>
